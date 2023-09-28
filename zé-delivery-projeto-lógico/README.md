@@ -1,1 +1,1 @@
-<img src="ze-delivery.png" />
+<img src="ze-delivery.jpg" />
